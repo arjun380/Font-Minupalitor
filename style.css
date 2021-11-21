@@ -1,0 +1,27 @@
+#header
+{
+    background-color: rgb(17, 123, 185);
+}
+
+.arjun,.foter
+{
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    width: 100%;
+
+}
+
+.foter{
+    position: fixed;
+    bottom: 0;
+    background-color:rgb(126, 14, 200);
+    color:white;
+}
+
+canvas{
+    border: 2px solid rgb(236, 156, 7);
+    border: radius 20px;
+    box-shadow: 5px 5px 5px rgb(0, 255, 128);
+
+}
